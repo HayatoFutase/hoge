@@ -1,4 +1,3 @@
-import copy, itertools
 # Input
 N = int(input())    # Num of towns
 bridges = [[int(i) for i in input().split(' ')] for j in range(N-1)]  # Bridges info.
